@@ -1,0 +1,2 @@
+# Authorized sellers of ads in Idle Space Salvager (https://iabtechlab.com/ads-txt).
+google.com, pub-2966086639838768, DIRECT, f08c47fec0942fa0
